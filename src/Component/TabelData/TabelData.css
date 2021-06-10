@@ -1,0 +1,25 @@
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+.Header {
+	color: #007449;
+	text-align: center;
+	font-size: 50px;
+	
+}
+
+th,
+td {
+	text-align: left;
+	padding: 6px;
+}
+
+tr:nth-child(even) {
+	background-color: #faf6f6;
+}
+
+th {
+	background-color: #007449;
+	color: white;
+}
