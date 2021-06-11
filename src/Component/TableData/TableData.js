@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import "./TabelData.css";
-const TabelData = () => {
+import "./TableData.css";
+const TableData = () => {
 	const [dataSet, setDataSet] = useState([
 		{
 			moduleName: "Configuration",
@@ -96,7 +96,7 @@ const TabelData = () => {
 
 	return (
 		<div>
-			<h2 className="Header">Tabel</h2>
+			<h2 className="Header">Table</h2>
 			<table>
 				<tbody>
 					<tr>
@@ -195,4 +195,4 @@ const TabelData = () => {
 	);
 };
 
-export default TabelData;
+export default TableData;

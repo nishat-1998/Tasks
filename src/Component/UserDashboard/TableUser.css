@@ -1,0 +1,13 @@
+ .user-table{
+   padding: 20;
+   
+ } 
+.user-table .btn {
+    background: linear-gradient(335.64deg, #007449 -19.22%, #007449 118.87%);
+    color: #fff;
+    border: none;
+  }
+  
+  .user-table .btn:focus {
+    box-shadow: 0 0 0 0.2rem #007449 !important;
+  }

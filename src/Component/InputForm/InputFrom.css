@@ -1,0 +1,25 @@
+.input-form {
+    padding: 3rem;
+  }
+  
+  .input-form .form-control {
+    border-radius: 50px;
+  }
+  
+  .input-form .form-control:focus {
+    border-color: #ccc7f6;
+    box-shadow: 0 0 0 0.2rem #edecf0;
+  }
+  
+  .input-form .btn {
+    margin-top: 1.8rem;
+    border-radius: 50px;
+    background: linear-gradient(335.64deg,#007449 -19.22%, #007449 118.87%);
+    padding: 10px 30px !important;
+    color: #fff !important;
+    border: none;
+  }
+  
+  .input-form .btn:focus {
+    box-shadow: 0 0 0 0.4rem #007449 !important;
+  }
