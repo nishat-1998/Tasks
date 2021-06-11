@@ -9,7 +9,7 @@ function App() {
     <div className="App">
     <UserDashboard/>
       <TableData/> 
-      <Toaster/>
+      <Toaster/> 
     </div>
   );
 }
