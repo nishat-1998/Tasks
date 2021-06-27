@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
   import { Toaster } from "react-hot-toast";
 import TableData from './Component/TableData/TableData';
@@ -9,7 +8,7 @@ function App() {
     <div className="App">
     <UserDashboard/>
       <TableData/> 
-      <Toaster/>
+      <Toaster/> 
     </div>
   );
 }
